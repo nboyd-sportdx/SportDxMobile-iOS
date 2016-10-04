@@ -1,0 +1,42 @@
+ #cocoaLumberjack
+github "CocoaLumberjack/CocoaLumberjack"
+
+# RNCryptor
+github "RNCryptor/RNCryptor" "RNCryptor-5.0.0"
+
+# Alamofire
+github "Alamofire/Alamofire" ~> 4.0
+
+# SSKeychain
+github "soffes/SAMKeychain"
+
+# kingFisher
+github "onevcat/Kingfisher" ~> 3.0
+
+# object mapper
+github "Hearst-DD/ObjectMapper" ~> 2.0
+
+# sv progress HUD
+github "SVProgressHUD/SVProgressHUD"
+
+#swifty json
+github "SwiftyJSON/SwiftyJSON"
+
+#facebook sdk 
+#github "facebook/Facebook-SDK-Swift"
+
+# database interaction
+github "ccgus/fmdb"
+
+# slide menu
+github "sascha/DrawerController"
+
+# formatter kit
+github "mattt/FormatterKit"
+
+# simple format
+github "marmelroy/Format"
+
+
+#Obfuscator library
+#Extensions (date, metric converter)

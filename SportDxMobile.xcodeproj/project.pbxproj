@@ -13,6 +13,36 @@
 		D8E8A2931DA27B6B0005C0B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8E8A2921DA27B6B0005C0B2 /* Assets.xcassets */; };
 		D8E8A2961DA27B6B0005C0B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8E8A2941DA27B6B0005C0B2 /* LaunchScreen.storyboard */; };
 		D8E8A2A11DA27B6C0005C0B2 /* SportDxMobileTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8E8A2A01DA27B6C0005C0B2 /* SportDxMobileTests.swift */; };
+		D8E8A2B51DA280EC0005C0B2 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2AC1DA280EC0005C0B2 /* Alamofire.framework */; };
+		D8E8A2B61DA280EC0005C0B2 /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2AD1DA280EC0005C0B2 /* CocoaLumberjack.framework */; };
+		D8E8A2B71DA280EC0005C0B2 /* CocoaLumberjackSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2AE1DA280EC0005C0B2 /* CocoaLumberjackSwift.framework */; };
+		D8E8A2B81DA280EC0005C0B2 /* Kingfisher.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2AF1DA280EC0005C0B2 /* Kingfisher.framework */; };
+		D8E8A2B91DA280EC0005C0B2 /* ObjectMapper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2B01DA280EC0005C0B2 /* ObjectMapper.framework */; };
+		D8E8A2BA1DA280EC0005C0B2 /* RNCryptor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2B11DA280EC0005C0B2 /* RNCryptor.framework */; };
+		D8E8A2BB1DA280EC0005C0B2 /* SAMKeychain.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2B21DA280EC0005C0B2 /* SAMKeychain.framework */; };
+		D8E8A2BC1DA280EC0005C0B2 /* SVProgressHUD.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2B31DA280EC0005C0B2 /* SVProgressHUD.framework */; };
+		D8E8A2BD1DA280EC0005C0B2 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2B41DA280EC0005C0B2 /* SwiftyJSON.framework */; };
+		D8E8A2C91DA282150005C0B2 /* Alamofire.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C01DA282150005C0B2 /* Alamofire.framework.dSYM */; };
+		D8E8A2CA1DA282150005C0B2 /* CocoaLumberjack.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C11DA282150005C0B2 /* CocoaLumberjack.framework.dSYM */; };
+		D8E8A2CB1DA282150005C0B2 /* CocoaLumberjackSwift.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C21DA282150005C0B2 /* CocoaLumberjackSwift.framework.dSYM */; };
+		D8E8A2CC1DA282150005C0B2 /* Kingfisher.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C31DA282150005C0B2 /* Kingfisher.framework.dSYM */; };
+		D8E8A2CD1DA282150005C0B2 /* ObjectMapper.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C41DA282150005C0B2 /* ObjectMapper.framework.dSYM */; };
+		D8E8A2CE1DA282150005C0B2 /* RNCryptor.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C51DA282150005C0B2 /* RNCryptor.framework.dSYM */; };
+		D8E8A2CF1DA282150005C0B2 /* SAMKeychain.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C61DA282150005C0B2 /* SAMKeychain.framework.dSYM */; };
+		D8E8A2D01DA282150005C0B2 /* SVProgressHUD.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C71DA282150005C0B2 /* SVProgressHUD.framework.dSYM */; };
+		D8E8A2D11DA282150005C0B2 /* SwiftyJSON.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2C81DA282150005C0B2 /* SwiftyJSON.framework.dSYM */; };
+		D8E8A2D41DA289FC0005C0B2 /* FMDB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2D31DA289FC0005C0B2 /* FMDB.framework */; };
+		D8E8A2D61DA28A0F0005C0B2 /* FMDB.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2D51DA28A0F0005C0B2 /* FMDB.framework.dSYM */; };
+		D8E8A2D81DA28E690005C0B2 /* DrawerController.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2D71DA28E690005C0B2 /* DrawerController.framework */; };
+		D8E8A2DA1DA28E8D0005C0B2 /* DrawerController.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2D91DA28E8D0005C0B2 /* DrawerController.framework.dSYM */; };
+		D8E8A2DD1DA295520005C0B2 /* Format.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2DB1DA295520005C0B2 /* Format.framework */; };
+		D8E8A2DE1DA295520005C0B2 /* FormatterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D8E8A2DC1DA295520005C0B2 /* FormatterKit.framework */; };
+		D8E8A2E11DA295990005C0B2 /* Format.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2DF1DA295990005C0B2 /* Format.framework.dSYM */; };
+		D8E8A2E21DA295990005C0B2 /* FormatterKit.framework.dSYM in CopyFiles */ = {isa = PBXBuildFile; fileRef = D8E8A2E01DA295990005C0B2 /* FormatterKit.framework.dSYM */; };
+		D8E8A2E71DA2D8A00005C0B2 /* Obfuscator.m in Sources */ = {isa = PBXBuildFile; fileRef = D8E8A2E61DA2D8A00005C0B2 /* Obfuscator.m */; };
+		D8E8A2EA1DA2D8D40005C0B2 /* Globals.m in Sources */ = {isa = PBXBuildFile; fileRef = D8E8A2E91DA2D8D40005C0B2 /* Globals.m */; };
+		D8E8A2EF1DA2D8EA0005C0B2 /* someclass.m in Sources */ = {isa = PBXBuildFile; fileRef = D8E8A2EB1DA2D8EA0005C0B2 /* someclass.m */; };
+		D8E8A2F01DA2D8EA0005C0B2 /* AncillaryClassForOB.m in Sources */ = {isa = PBXBuildFile; fileRef = D8E8A2EE1DA2D8EA0005C0B2 /* AncillaryClassForOB.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -25,6 +55,31 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		D8E8A2BF1DA281D90005C0B2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 16;
+			files = (
+				D8E8A2C91DA282150005C0B2 /* Alamofire.framework.dSYM in CopyFiles */,
+				D8E8A2CA1DA282150005C0B2 /* CocoaLumberjack.framework.dSYM in CopyFiles */,
+				D8E8A2D61DA28A0F0005C0B2 /* FMDB.framework.dSYM in CopyFiles */,
+				D8E8A2DA1DA28E8D0005C0B2 /* DrawerController.framework.dSYM in CopyFiles */,
+				D8E8A2CB1DA282150005C0B2 /* CocoaLumberjackSwift.framework.dSYM in CopyFiles */,
+				D8E8A2CC1DA282150005C0B2 /* Kingfisher.framework.dSYM in CopyFiles */,
+				D8E8A2E11DA295990005C0B2 /* Format.framework.dSYM in CopyFiles */,
+				D8E8A2E21DA295990005C0B2 /* FormatterKit.framework.dSYM in CopyFiles */,
+				D8E8A2CD1DA282150005C0B2 /* ObjectMapper.framework.dSYM in CopyFiles */,
+				D8E8A2CE1DA282150005C0B2 /* RNCryptor.framework.dSYM in CopyFiles */,
+				D8E8A2CF1DA282150005C0B2 /* SAMKeychain.framework.dSYM in CopyFiles */,
+				D8E8A2D01DA282150005C0B2 /* SVProgressHUD.framework.dSYM in CopyFiles */,
+				D8E8A2D11DA282150005C0B2 /* SwiftyJSON.framework.dSYM in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
 		D8E8A2881DA27B6B0005C0B2 /* SportDxMobile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportDxMobile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8E8A28B1DA27B6B0005C0B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +91,42 @@
 		D8E8A29C1DA27B6C0005C0B2 /* SportDxMobileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SportDxMobileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8E8A2A01DA27B6C0005C0B2 /* SportDxMobileTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportDxMobileTests.swift; sourceTree = "<group>"; };
 		D8E8A2A21DA27B6C0005C0B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8E8A2AC1DA280EC0005C0B2 /* Alamofire.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Alamofire.framework; path = Carthage/Build/iOS/Alamofire.framework; sourceTree = "<group>"; };
+		D8E8A2AD1DA280EC0005C0B2 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjack.framework; path = Carthage/Build/iOS/CocoaLumberjack.framework; sourceTree = "<group>"; };
+		D8E8A2AE1DA280EC0005C0B2 /* CocoaLumberjackSwift.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaLumberjackSwift.framework; path = Carthage/Build/iOS/CocoaLumberjackSwift.framework; sourceTree = "<group>"; };
+		D8E8A2AF1DA280EC0005C0B2 /* Kingfisher.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Kingfisher.framework; path = Carthage/Build/iOS/Kingfisher.framework; sourceTree = "<group>"; };
+		D8E8A2B01DA280EC0005C0B2 /* ObjectMapper.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ObjectMapper.framework; path = Carthage/Build/iOS/ObjectMapper.framework; sourceTree = "<group>"; };
+		D8E8A2B11DA280EC0005C0B2 /* RNCryptor.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = RNCryptor.framework; path = Carthage/Build/iOS/RNCryptor.framework; sourceTree = "<group>"; };
+		D8E8A2B21DA280EC0005C0B2 /* SAMKeychain.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SAMKeychain.framework; path = Carthage/Build/iOS/SAMKeychain.framework; sourceTree = "<group>"; };
+		D8E8A2B31DA280EC0005C0B2 /* SVProgressHUD.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SVProgressHUD.framework; path = Carthage/Build/iOS/SVProgressHUD.framework; sourceTree = "<group>"; };
+		D8E8A2B41DA280EC0005C0B2 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = Carthage/Build/iOS/SwiftyJSON.framework; sourceTree = "<group>"; };
+		D8E8A2C01DA282150005C0B2 /* Alamofire.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = Alamofire.framework.dSYM; path = Carthage/Build/iOS/Alamofire.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C11DA282150005C0B2 /* CocoaLumberjack.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = CocoaLumberjack.framework.dSYM; path = Carthage/Build/iOS/CocoaLumberjack.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C21DA282150005C0B2 /* CocoaLumberjackSwift.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = CocoaLumberjackSwift.framework.dSYM; path = Carthage/Build/iOS/CocoaLumberjackSwift.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C31DA282150005C0B2 /* Kingfisher.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = Kingfisher.framework.dSYM; path = Carthage/Build/iOS/Kingfisher.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C41DA282150005C0B2 /* ObjectMapper.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = ObjectMapper.framework.dSYM; path = Carthage/Build/iOS/ObjectMapper.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C51DA282150005C0B2 /* RNCryptor.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = RNCryptor.framework.dSYM; path = Carthage/Build/iOS/RNCryptor.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C61DA282150005C0B2 /* SAMKeychain.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = SAMKeychain.framework.dSYM; path = Carthage/Build/iOS/SAMKeychain.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C71DA282150005C0B2 /* SVProgressHUD.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = SVProgressHUD.framework.dSYM; path = Carthage/Build/iOS/SVProgressHUD.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2C81DA282150005C0B2 /* SwiftyJSON.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = SwiftyJSON.framework.dSYM; path = Carthage/Build/iOS/SwiftyJSON.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2D31DA289FC0005C0B2 /* FMDB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FMDB.framework; path = Carthage/Build/iOS/FMDB.framework; sourceTree = "<group>"; };
+		D8E8A2D51DA28A0F0005C0B2 /* FMDB.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = FMDB.framework.dSYM; path = Carthage/Build/iOS/FMDB.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2D71DA28E690005C0B2 /* DrawerController.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = DrawerController.framework; path = Carthage/Build/iOS/DrawerController.framework; sourceTree = "<group>"; };
+		D8E8A2D91DA28E8D0005C0B2 /* DrawerController.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = DrawerController.framework.dSYM; path = Carthage/Build/iOS/DrawerController.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2DB1DA295520005C0B2 /* Format.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Format.framework; path = Carthage/Build/iOS/Format.framework; sourceTree = "<group>"; };
+		D8E8A2DC1DA295520005C0B2 /* FormatterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FormatterKit.framework; path = Carthage/Build/iOS/FormatterKit.framework; sourceTree = "<group>"; };
+		D8E8A2DF1DA295990005C0B2 /* Format.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = Format.framework.dSYM; path = Carthage/Build/iOS/Format.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2E01DA295990005C0B2 /* FormatterKit.framework.dSYM */ = {isa = PBXFileReference; lastKnownFileType = wrapper.dsym; name = FormatterKit.framework.dSYM; path = Carthage/Build/iOS/FormatterKit.framework.dSYM; sourceTree = "<group>"; };
+		D8E8A2E41DA2D89E0005C0B2 /* SportDxMobile-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "SportDxMobile-Bridging-Header.h"; sourceTree = "<group>"; };
+		D8E8A2E51DA2D8A00005C0B2 /* Obfuscator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obfuscator.h; sourceTree = "<group>"; };
+		D8E8A2E61DA2D8A00005C0B2 /* Obfuscator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obfuscator.m; sourceTree = "<group>"; };
+		D8E8A2E81DA2D8D40005C0B2 /* Globals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Globals.h; sourceTree = "<group>"; };
+		D8E8A2E91DA2D8D40005C0B2 /* Globals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Globals.m; sourceTree = "<group>"; };
+		D8E8A2EB1DA2D8EA0005C0B2 /* someclass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = someclass.m; sourceTree = "<group>"; };
+		D8E8A2EC1DA2D8EA0005C0B2 /* someclass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = someclass.h; sourceTree = "<group>"; };
+		D8E8A2ED1DA2D8EA0005C0B2 /* AncillaryClassForOB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AncillaryClassForOB.h; sourceTree = "<group>"; };
+		D8E8A2EE1DA2D8EA0005C0B2 /* AncillaryClassForOB.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AncillaryClassForOB.m; sourceTree = "<group>"; };
+		D8E8A2F21DA2DB9D0005C0B2 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrefixHeader.pch; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +134,19 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8E8A2B51DA280EC0005C0B2 /* Alamofire.framework in Frameworks */,
+				D8E8A2B61DA280EC0005C0B2 /* CocoaLumberjack.framework in Frameworks */,
+				D8E8A2B71DA280EC0005C0B2 /* CocoaLumberjackSwift.framework in Frameworks */,
+				D8E8A2B81DA280EC0005C0B2 /* Kingfisher.framework in Frameworks */,
+				D8E8A2B91DA280EC0005C0B2 /* ObjectMapper.framework in Frameworks */,
+				D8E8A2D81DA28E690005C0B2 /* DrawerController.framework in Frameworks */,
+				D8E8A2D41DA289FC0005C0B2 /* FMDB.framework in Frameworks */,
+				D8E8A2DD1DA295520005C0B2 /* Format.framework in Frameworks */,
+				D8E8A2DE1DA295520005C0B2 /* FormatterKit.framework in Frameworks */,
+				D8E8A2BA1DA280EC0005C0B2 /* RNCryptor.framework in Frameworks */,
+				D8E8A2BB1DA280EC0005C0B2 /* SAMKeychain.framework in Frameworks */,
+				D8E8A2BC1DA280EC0005C0B2 /* SVProgressHUD.framework in Frameworks */,
+				D8E8A2BD1DA280EC0005C0B2 /* SwiftyJSON.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +166,8 @@
 				D8E8A28A1DA27B6B0005C0B2 /* SportDxMobile */,
 				D8E8A29F1DA27B6C0005C0B2 /* SportDxMobileTests */,
 				D8E8A2891DA27B6B0005C0B2 /* Products */,
+				D8E8A2D21DA282630005C0B2 /* DSYM(s) */,
+				D8E8A2AB1DA280EA0005C0B2 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,12 +183,15 @@
 		D8E8A28A1DA27B6B0005C0B2 /* SportDxMobile */ = {
 			isa = PBXGroup;
 			children = (
+				D8E8A2E31DA2D8850005C0B2 /* obfuscation */,
 				D8E8A28B1DA27B6B0005C0B2 /* AppDelegate.swift */,
 				D8E8A28D1DA27B6B0005C0B2 /* ViewController.swift */,
 				D8E8A28F1DA27B6B0005C0B2 /* Main.storyboard */,
 				D8E8A2921DA27B6B0005C0B2 /* Assets.xcassets */,
 				D8E8A2941DA27B6B0005C0B2 /* LaunchScreen.storyboard */,
 				D8E8A2971DA27B6B0005C0B2 /* Info.plist */,
+				D8E8A2E41DA2D89E0005C0B2 /* SportDxMobile-Bridging-Header.h */,
+				D8E8A2F21DA2DB9D0005C0B2 /* PrefixHeader.pch */,
 			);
 			path = SportDxMobile;
 			sourceTree = "<group>";
@@ -96,6 +205,61 @@
 			path = SportDxMobileTests;
 			sourceTree = "<group>";
 		};
+		D8E8A2AB1DA280EA0005C0B2 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D8E8A2DB1DA295520005C0B2 /* Format.framework */,
+				D8E8A2DC1DA295520005C0B2 /* FormatterKit.framework */,
+				D8E8A2D71DA28E690005C0B2 /* DrawerController.framework */,
+				D8E8A2D31DA289FC0005C0B2 /* FMDB.framework */,
+				D8E8A2AC1DA280EC0005C0B2 /* Alamofire.framework */,
+				D8E8A2AD1DA280EC0005C0B2 /* CocoaLumberjack.framework */,
+				D8E8A2AE1DA280EC0005C0B2 /* CocoaLumberjackSwift.framework */,
+				D8E8A2AF1DA280EC0005C0B2 /* Kingfisher.framework */,
+				D8E8A2B01DA280EC0005C0B2 /* ObjectMapper.framework */,
+				D8E8A2B11DA280EC0005C0B2 /* RNCryptor.framework */,
+				D8E8A2B21DA280EC0005C0B2 /* SAMKeychain.framework */,
+				D8E8A2B31DA280EC0005C0B2 /* SVProgressHUD.framework */,
+				D8E8A2B41DA280EC0005C0B2 /* SwiftyJSON.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D8E8A2D21DA282630005C0B2 /* DSYM(s) */ = {
+			isa = PBXGroup;
+			children = (
+				D8E8A2DF1DA295990005C0B2 /* Format.framework.dSYM */,
+				D8E8A2E01DA295990005C0B2 /* FormatterKit.framework.dSYM */,
+				D8E8A2D91DA28E8D0005C0B2 /* DrawerController.framework.dSYM */,
+				D8E8A2D51DA28A0F0005C0B2 /* FMDB.framework.dSYM */,
+				D8E8A2C01DA282150005C0B2 /* Alamofire.framework.dSYM */,
+				D8E8A2C11DA282150005C0B2 /* CocoaLumberjack.framework.dSYM */,
+				D8E8A2C21DA282150005C0B2 /* CocoaLumberjackSwift.framework.dSYM */,
+				D8E8A2C31DA282150005C0B2 /* Kingfisher.framework.dSYM */,
+				D8E8A2C41DA282150005C0B2 /* ObjectMapper.framework.dSYM */,
+				D8E8A2C51DA282150005C0B2 /* RNCryptor.framework.dSYM */,
+				D8E8A2C61DA282150005C0B2 /* SAMKeychain.framework.dSYM */,
+				D8E8A2C71DA282150005C0B2 /* SVProgressHUD.framework.dSYM */,
+				D8E8A2C81DA282150005C0B2 /* SwiftyJSON.framework.dSYM */,
+			);
+			name = "DSYM(s)";
+			sourceTree = "<group>";
+		};
+		D8E8A2E31DA2D8850005C0B2 /* obfuscation */ = {
+			isa = PBXGroup;
+			children = (
+				D8E8A2E51DA2D8A00005C0B2 /* Obfuscator.h */,
+				D8E8A2E61DA2D8A00005C0B2 /* Obfuscator.m */,
+				D8E8A2E81DA2D8D40005C0B2 /* Globals.h */,
+				D8E8A2E91DA2D8D40005C0B2 /* Globals.m */,
+				D8E8A2EC1DA2D8EA0005C0B2 /* someclass.h */,
+				D8E8A2EB1DA2D8EA0005C0B2 /* someclass.m */,
+				D8E8A2ED1DA2D8EA0005C0B2 /* AncillaryClassForOB.h */,
+				D8E8A2EE1DA2D8EA0005C0B2 /* AncillaryClassForOB.m */,
+			);
+			name = obfuscation;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -106,6 +270,8 @@
 				D8E8A2841DA27B6B0005C0B2 /* Sources */,
 				D8E8A2851DA27B6B0005C0B2 /* Frameworks */,
 				D8E8A2861DA27B6B0005C0B2 /* Resources */,
+				D8E8A2BE1DA280FE0005C0B2 /* ShellScript */,
+				D8E8A2BF1DA281D90005C0B2 /* CopyFiles */,
 			);
 			buildRules = (
 			);
@@ -146,6 +312,7 @@
 				TargetAttributes = {
 					D8E8A2871DA27B6B0005C0B2 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 					D8E8A29B1DA27B6C0005C0B2 = {
@@ -194,12 +361,45 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		D8E8A2BE1DA280FE0005C0B2 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjack.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/CocoaLumberjackSwift.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Kingfisher.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/ObjectMapper.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/RNCryptor.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SAMKeychain.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SVProgressHUD.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/FMDB.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/DrawerController.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/Format.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/FormatterKit.framework",
+				"$(SRCROOT)/Carthage/Build/iOS/SwiftyJSON.framework",
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/usr/local/bin/carthage copy-frameworks";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		D8E8A2841DA27B6B0005C0B2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8E8A2EA1DA2D8D40005C0B2 /* Globals.m in Sources */,
 				D8E8A28E1DA27B6B0005C0B2 /* ViewController.swift in Sources */,
+				D8E8A2EF1DA2D8EA0005C0B2 /* someclass.m in Sources */,
+				D8E8A2F01DA2D8EA0005C0B2 /* AncillaryClassForOB.m in Sources */,
+				D8E8A2E71DA2D8A00005C0B2 /* Obfuscator.m in Sources */,
 				D8E8A28C1DA27B6B0005C0B2 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -339,10 +539,19 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SportDxMobile/PrefixHeader.pch";
 				INFOPLIST_FILE = SportDxMobile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sportdx.SportDxMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SportDxMobile/SportDxMobile-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -351,10 +560,18 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SportDxMobile/PrefixHeader.pch";
 				INFOPLIST_FILE = SportDxMobile/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.sportdx.SportDxMobile;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "SportDxMobile/SportDxMobile-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
